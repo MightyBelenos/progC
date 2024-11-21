@@ -1,1 +1,0 @@
-gcc -std=c99 -Wall -c suite.c -I../generator -I../symbol
